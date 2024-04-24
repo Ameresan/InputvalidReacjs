@@ -1,0 +1,41 @@
+#style1{
+    background-color: aqua;
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    border: none;
+    padding-top: 100px;
+    border-radius: 50px;
+}
+button{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 75px;
+    
+}
+#style2{
+    display: flex;
+    /* justify-content: center; */
+    width: 100%;
+
+}
+#style3{
+    border: none;
+    border-radius: 4px;
+    width: 300px;
+    height: 35px;
+}
+#style4{
+    border: none;
+    border-radius: 7px;
+    width: 300px;
+    height: 80px;
+}
+#style5{
+    width: 300px;
+    height: 30px;
+}
